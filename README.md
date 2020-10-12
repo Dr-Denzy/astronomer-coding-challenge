@@ -8,13 +8,13 @@
 - In a non-test condition I would have gone the TDD route where I would be compelled to write a more extensive unittest coverage for my implementation.
 
 ### Time and Space Complexity
-- Python builtin dictionary and lists used to cart class implement.
+- Python builtin dictionary and lists used for the cart class implementation.
 - Appending an item to a dictionary has O(1).
 - fetching an item by key from a dictionary is also O(1).
 
 
 ### Setup / Run this program
-1. Mac/Linux OS: launch the terminal program and `cd` into the codingbirdsai directory.
+1. Mac/Linux OS: launch the terminal program and `cd` into the astronomer directory.
 
 2. run `pip3 install -r requirements.txt` or `pip3 install -e .` 
 
